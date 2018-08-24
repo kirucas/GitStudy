@@ -9,10 +9,10 @@
 	<h2>하이루 하ㅇㅇㅇ이루</h2>
 	<fieldset>
 		<legend>sunguksunguksunguk</legend>
-		<ul>
+		<ul style="list-style-type: upper-alpha;">
 			<li>3성욱 했습니다</li>
+			<li>그러하다!!!</li>
 		</ul>
-		
 	</fieldset>
 </body>
 </html>
