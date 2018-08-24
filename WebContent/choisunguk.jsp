@@ -3,9 +3,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>choisunguk.jsp</title>
+<title>hihi</title>
 </head>
 <body>
-<h2>으아아아아dddddd아ㅏㅏㅏ아아아아아아ㅏ아ㅏ강ㄱ</h2>
+<h2>하이루 하이루</h2>
 </body>
 </html>
