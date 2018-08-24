@@ -7,6 +7,6 @@
 <title>1.jsp</title>
 </head>
 <body>
-
+	<h2>첫번째 기능 추가</h2>
 </body>
 </html>
