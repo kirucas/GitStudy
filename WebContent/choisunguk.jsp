@@ -6,6 +6,6 @@
 <title>choisunguk.jsp</title>
 </head>
 <body>
-<h2>으아아아아아아아아아아ㅏ아ㅏ강ㄱ</h2>
+<h2>으아아아아아아아아아아아ㅏ아ㅏ강ㄱ</h2>
 </body>
 </html>
