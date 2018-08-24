@@ -6,6 +6,12 @@
 <title>hihi</title>
 </head>
 <body>
-<h2>하이루 하ㅇㅇㅇ이루</h2>
+	<h2>하이루 하ㅇㅇㅇ이루</h2>
+	<fieldset>
+		<legend>sunguksunguksunguk</legend>
+		<ul>
+			<li>3성욱 했습니다</li>
+		</ul>
+	</fieldset>
 </body>
 </html>
