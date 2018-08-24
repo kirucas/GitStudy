@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h2>2.jsp에 첫번째 기능 추가</h2>
+	<h2>2.jsp에 첫번째 기능 수정</h2>
 </body>
 </html>
