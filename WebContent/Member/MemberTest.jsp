@@ -3,12 +3,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
 <body>
 	<fieldset>
-		<legend>수정</legend>
+		<legend>이것또한 테스트다</legend>
 	</fieldset>
 </body>
 </html>
